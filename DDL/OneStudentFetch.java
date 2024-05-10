@@ -5,7 +5,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-public class FetchStudent {
+public class OneStudentFetch {
 
 	public static void main(String[] args) throws SQLException {
 
